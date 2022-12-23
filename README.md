@@ -17,23 +17,12 @@
 
 - 📄 Know about my experiences [jameeronline.com/about](jameeronline.com/about)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/jameeronline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jameeronline" height="30" width="40" /></a>
-<a href="https://dev.to/jameeronline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jameeronline" height="30" width="40" /></a>
 <a href="https://twitter.com/jameeronline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jameeronline" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jameeronline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jameeronline" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jameeronline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jameeronline" height="30" width="40" /></a>
-<a href="https://codesandbox.com/jameeronline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jameeronline" height="30" width="40" /></a>
 <a href="https://fb.com/jameeronline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jameeronline" height="30" width="40" /></a>
-<a href="https://instagram.com/jameeronline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jameeronline" height="30" width="40" /></a>
-<a href="https://dribbble.com/jameeronline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jameeronline" height="30" width="40" /></a>
-<a href="https://www.behance.net/jameeronline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jameeronline" height="30" width="40" /></a>
-<a href="https://medium.com/@jameeronline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jameeronline" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/jameeronline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jameeronline" height="30" width="40" /></a>
 </p>
 
