@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jamal Mohamed Ameer</h1>
-<h3 align="center">I'm a UI developer with a passion for building beautiful, responsive websites that are easy to use and accessible to all. My experience includes HTML, CSS, SCSS/SASS, JS, React, React Native, Cross Platform Mobile App development and jQuery. I also love working with CSS frameworks like bootstrap and tailwind.</h3>
+<h3 align="center">I'm a UI developer with a passion for building beautiful, responsive websites that are easy to use and accessible to all. My experience includes HTML, CSS, SCSS/SASS, JS, Jquery, Alphine JS, Bootstrap, Tailwind CSS, PostCSS, React, React Native, Cross Platform Mobile App development and Web Accessibility.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jameeronline&label=Profile%20views&color=0e75b6&style=flat" alt="jameeronline" /> </p>
 
